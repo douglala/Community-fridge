@@ -1,0 +1,9 @@
+dash-core-components
+dash-bootstrap-components
+dash-html-components
+dash
+pandas
+webbrowser
+plotly
+base64
+gunicorn
